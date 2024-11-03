@@ -1,0 +1,118 @@
+[+] Containers:
+ |- [+] Container: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:01730F0C4A476AA79CD010A7D583B5EF BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_08BFB8BE1BB7C32A02_1634731169 Label:WorldTrigger SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3637.484 Y=-6519.646 Z=-5015.350), Max=(X=9109.484 Y=9961.646 Z=-2196.650) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:117CA3A04E7B206144F68FB83483DD8A BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:11F162254BCF78857280C29BC711CEC1 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:32BF1B6E40481C17D50B1B8F159EC33D BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C12A02_1419902816 Label:BP_FallingBlocks SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=378.477 Y=3601.490 Z=-226.945), Max=(X=721.523 Y=3918.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:35B71690446FF358E0BFCA863F32DF99 BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1480825348 Label:BP_FallingBlocks2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-41.523 Y=4121.490 Z=-226.945), Max=(X=301.523 Y=4438.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5DF4F9354A79D37B5038949F3838BD3E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1528790349 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-70.000 Y=4640.000 Z=-200.000), Max=(X=230.000 Y=4940.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6AFB03B144E760E9046270B5C4A53EF1 BaseClass:/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C NativeClass:/Script/Engine.Character Name:BP_ThirdPersonCharacter_C_UAID_08BFB8BE1BB7FA2B02_1712869909 Label:BP_ThirdPersonCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=485.000 Y=3725.000 Z=419.851), Max=(X=557.592 Y=3795.000 Z=600.332) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:754923F14D62BF31B58E6CAA41C4F132 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:764DFACB412DBEA625864CB069A1007D BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1558216353 Label:BP_FallingBlocks4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=388.477 Y=5131.490 Z=-226.945), Max=(X=731.523 Y=5448.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8F904EEC4D9FF8F74AE556A5C03E9D2D BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:91FE2B5D46FF955D0E8970B2C1A6C28F BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_08BFB8BE1BB7FA2B02_1965928910 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=440.000 Y=4420.000 Z=830.000), Max=(X=440.000 Y=4420.000 Z=830.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9440443E4C874EEFABD8DD999B219A4B BaseClass:/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks.FTest_FallingBlocks_C NativeClass:/Script/FunctionalTesting.FunctionalTest Name:FTest_FallingBlocks_C_UAID_08BFB8BE1BB7FA2B02_1693125908 Label:FTest_FallingBlocks SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-156.000 Y=3474.000 Z=-166.000), Max=(X=356.000 Y=3986.000 Z=346.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C13F047345D1612AA6EC9C9A9D82AFD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1447988347 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=4130.000 Z=-200.000), Max=(X=700.000 Y=4430.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C73C814A4512DE8DB25F8DBF0F137B77 BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1544005351 Label:BP_FallingBlocks3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=398.477 Y=4631.490 Z=-226.945), Max=(X=741.523 Y=4948.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C98D787644AFEC09609791AB46CD5741 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7322802_1866631539 Label:Object_9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1010.000 Y=15640.000 Z=0.000), Max=(X=1010.000 Y=15640.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CEA8184D4E8ED8757FDDB7B13780EEE9 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:E727F40A4442955ADCAFAEB9B4B60657 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EAA0F31941FFADAFB2A4FEAEF7AF2CB3 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F3EB5BE84A681B160C6918A4BFBBBD75 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1402201346 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3610.000 Z=-200.000), Max=(X=300.000 Y=3910.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F707576B4899135C12B9759A63D10CA8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1553007352 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-90.000 Y=5130.000 Z=-200.000), Max=(X=210.000 Y=5430.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:01730F0C4A476AA79CD010A7D583B5EF BaseClass: NativeClass:/Script/Engine.TriggerBox Name:TriggerBox_UAID_08BFB8BE1BB7C32A02_1634731169 Label:WorldTrigger SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-3637.484 Y=-6519.646 Z=-5015.350), Max=(X=9109.484 Y=9961.646 Z=-2196.650) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:117CA3A04E7B206144F68FB83483DD8A BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:11F162254BCF78857280C29BC711CEC1 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:32BF1B6E40481C17D50B1B8F159EC33D BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C12A02_1419902816 Label:BP_FallingBlocks SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=378.477 Y=3601.490 Z=-226.945), Max=(X=721.523 Y=3918.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:6AFB03B144E760E9046270B5C4A53EF1 BaseClass:/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C NativeClass:/Script/Engine.Character Name:BP_ThirdPersonCharacter_C_UAID_08BFB8BE1BB7FA2B02_1712869909 Label:BP_ThirdPersonCharacter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=485.000 Y=3725.000 Z=419.851), Max=(X=557.592 Y=3795.000 Z=600.332) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:91FE2B5D46FF955D0E8970B2C1A6C28F BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_08BFB8BE1BB7FA2B02_1965928910 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=440.000 Y=4420.000 Z=830.000), Max=(X=440.000 Y=4420.000 Z=830.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:9440443E4C874EEFABD8DD999B219A4B BaseClass:/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks.FTest_FallingBlocks_C NativeClass:/Script/FunctionalTesting.FunctionalTest Name:FTest_FallingBlocks_C_UAID_08BFB8BE1BB7FA2B02_1693125908 Label:FTest_FallingBlocks SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-156.000 Y=3474.000 Z=-166.000), Max=(X=356.000 Y=3986.000 Z=346.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:35B71690446FF358E0BFCA863F32DF99 BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1480825348 Label:BP_FallingBlocks2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-41.523 Y=4121.490 Z=-226.945), Max=(X=301.523 Y=4438.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:5DF4F9354A79D37B5038949F3838BD3E BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1528790349 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-70.000 Y=4640.000 Z=-200.000), Max=(X=230.000 Y=4940.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:754923F14D62BF31B58E6CAA41C4F132 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:764DFACB412DBEA625864CB069A1007D BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1558216353 Label:BP_FallingBlocks4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=388.477 Y=5131.490 Z=-226.945), Max=(X=731.523 Y=5448.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:8F904EEC4D9FF8F74AE556A5C03E9D2D BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:C13F047345D1612AA6EC9C9A9D82AFD4 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1447988347 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=400.000 Y=4130.000 Z=-200.000), Max=(X=700.000 Y=4430.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:C73C814A4512DE8DB25F8DBF0F137B77 BaseClass:/Game/Blueprints/Implemention/BP_FallingBlocks.BP_FallingBlocks_C NativeClass:/Script/Engine.Actor Name:BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1544005351 Label:BP_FallingBlocks3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=398.477 Y=4631.490 Z=-226.945), Max=(X=741.523 Y=4948.510 Z=26.945) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:C98D787644AFEC09609791AB46CD5741 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7322802_1866631539 Label:Object_9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1010.000 Y=15640.000 Z=0.000), Max=(X=1010.000 Y=15640.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:CEA8184D4E8ED8757FDDB7B13780EEE9 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:E727F40A4442955ADCAFAEB9B4B60657 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:EAA0F31941FFADAFB2A4FEAEF7AF2CB3 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:F3EB5BE84A681B160C6918A4BFBBBD75 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1402201346 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=3610.000 Z=-200.000), Max=(X=300.000 Y=3910.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:F707576B4899135C12B9759A63D10CA8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1553007352 Label:Cube5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-90.000 Y=5130.000 Z=-200.000), Max=(X=210.000 Y=5430.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap
+----------------------------------------------------------------------------------------------------------------
+FTest_FallingBlocksMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FTest_FallingBlocksMap Persistent Level
+ |- Always loaded Actor Count: 20 
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.BP_FallingBlocks_C_UAID_08BFB8BE1BB7C12A02_1419902816
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/A/OA/ZTU2E0TG6UE2DSSVBSCQ86
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1480825348
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/1/SY/1CZTS4KO7UTBONJ6DKHP63
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1544005351
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/E/J2/H05DAA53D3644FQPVLNZSJ
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.BP_FallingBlocks_C_UAID_08BFB8BE1BB7C42A02_1558216353
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/C/FZ/6FFPX2Z8340B9V4I2G5AAC
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_08BFB8BE1BB7FA2B02_1712869909
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/5/5Y/51TCSJ3JCD84LA7DDAPO7G
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.CameraActor_UAID_08BFB8BE1BB7FA2B02_1965928910
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/D/BK/ZPN0LHM84TVXDZHD3K4AZM
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/6/J2/QSWSL19Q7GT5ZZ3U68C74Z
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/B/RG/UQOQF6B153ZS4YHVCOBQ83
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.FTest_FallingBlocks_C_UAID_08BFB8BE1BB7FA2B02_1693125908
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/D/KZ/W2TFEVMPIFJ0D1R3W1VP9U
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/5/AM/UWOWFRR8YSGUFQT2J6E9A9
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/5/B4/1S5KGXBNR5ZHYI9AJC8ZXQ
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.StaticMeshActor_UAID_08BFB8BE1BB7322802_1866631539
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/7/1N/2ZM50FGKVH76SADQBWWDQH
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1402201346
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/9/5B/EC439C4C5LN8Z381QXJ8D7
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1447988347
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/7/S8/9SIQWUTEQAIADOOASU1CCO
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1528790349
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/4/R9/MKLJVVAFDC6IVWA3FKDAQZ
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.StaticMeshActor_UAID_08BFB8BE1BB7C42A02_1553007352
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/8/S5/5EXOL8A62AQVMGAQ2I0C5W
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.TextRenderActor_1
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/C/IW/C3OZLITBUJIIKL6Q6YA2PZ
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.TriggerBox_UAID_08BFB8BE1BB7C32A02_1634731169
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/A/3T/ZT2WUVJLXD3VM3MKM1KHJI
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/B/YQ/7Y3DRRZ46NR2EA4CGX855K
+ |- Actor Path: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap.FTest_FallingBlocksMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Tests/PuzzleFallingBlocks/FTest_FallingBlocksMap/8/SH/YLVGPC88XL3CUSCE0JXQRM
+
+----------------------------------------------------------------------------------------------------------------
+FTest_FallingBlocksMap - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+

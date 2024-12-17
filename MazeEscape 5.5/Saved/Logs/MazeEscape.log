@@ -7569,3 +7569,645 @@ Make sure '/Game/UI/PauseMenuUI.PauseMenuUI' has been compiled for  Set IsPaused
 [2024.12.17-21.38.49:065][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8066.519531
 [2024.12.17-21.38.49:428][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.17-21.38.49:428][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8066.870117, Update Interval: 323.187347
+[2024.12.17-21.41.59:851][513]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI
+[2024.12.17-21.41.59:851][513]LogChaosDD: Creating Chaos Debug Draw Scene for world World_52
+[2024.12.17-21.41.59:858][513]LogChaosDD: Creating Chaos Debug Draw Scene for world World_53
+[2024.12.17-21.42.30:213][951]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] Could not find a variable named "IsPaused" in '/Game/UI/PauseMenuUI.PauseMenuUI'.
+Make sure '/Game/UI/PauseMenuUI.PauseMenuUI' has been compiled for  Set IsPaused
+[2024.12.17-21.42.30:213][951]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.12.17-21.42.30:213][951]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] The property associated with  Is Paused  could not be found in '/Game/UI/PauseMenuUI.PauseMenuUI_C'
+[2024.12.17-21.42.30:255][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.17-21.43.53:120][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.17-21.43.53:123][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.042
+[2024.12.17-21.43.53:124][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenuUI] ([2] browsable assets)...
+[2024.12.17-21.43.53:125][851]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI]
+[2024.12.17-21.43.53:125][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenuUI]
+[2024.12.17-21.43.53:133][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenuUI_Auto7
+[2024.12.17-21.43.53:133][851]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/PauseMenuUI_Auto72E6D66E2413B02A31CE08E96457C2FBC.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/UI/PauseMenuUI_Auto7.uasset'
+[2024.12.17-21.43.53:134][851]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.12.17-21.45.01:340][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8438.780273
+[2024.12.17-21.45.02:340][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.17-21.45.02:340][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8439.447266, Update Interval: 330.444031
+[2024.12.17-21.48.06:675][690]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] Could not find a variable named "IsPaused" in '/Game/UI/PauseMenuUI.PauseMenuUI'.
+Make sure '/Game/UI/PauseMenuUI.PauseMenuUI' has been compiled for  Set IsPaused
+[2024.12.17-21.48.06:676][690]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.12.17-21.48.06:676][690]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] The property associated with  Is Paused  could not be found in '/Game/UI/PauseMenuUI.PauseMenuUI_C'
+[2024.12.17-21.48.06:720][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.17-21.50.44:320][850]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.50.44:326][850]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.50.44:352][850]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.50.44:352][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.50.44:359][850]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.50.44:359][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.50.44:406][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.17-21.50.54:319][931]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.17-21.50.54:642][934]LogChaosDD: Creating Chaos Debug Draw Scene for world World_54
+[2024.12.17-21.50.57:689][219]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.17-21.50.57:689][219]LogChaosDD: Creating Chaos Debug Draw Scene for world World_55
+[2024.12.17-21.50.58:324][222]LogChaosDD: Creating Chaos Debug Draw Scene for world World_56
+[2024.12.17-21.51.18:622][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8816.011719
+[2024.12.17-21.51.19:620][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.17-21.51.19:621][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8816.677734, Update Interval: 332.961823
+[2024.12.17-21.51.41:732][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.17-21.51.42:475][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-21.51.42:597][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.17-21.51.42:629][610]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.17-21.51.42:629][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.17-21.51.42:639][610]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.17-21.51.42:640][610]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_ThirdPersonCharacterB7477B1446E79C64FC60A2BB569C70B2.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.17-21.51.42:648][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.293 ms (total: 3.40 sec)
+[2024.12.17-21.51.42:766][610]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.17-21.51.42:766][610]LogContentValidation: Enabled validators:
+[2024.12.17-21.51.42:766][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-21.51.42:766][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-21.51.42:766][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-21.51.42:766][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-21.51.42:766][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-21.51.42:766][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-21.51.42:766][610]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.17-21.51.44:259][735]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.12.17-21.51.44:264][735]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.12.17-21.51.44:268][735]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.51.44:268][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.51.44:325][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.17-21.53.20:395][848]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI
+[2024.12.17-21.53.20:395][848]LogChaosDD: Creating Chaos Debug Draw Scene for world World_57
+[2024.12.17-21.53.20:407][848]LogChaosDD: Creating Chaos Debug Draw Scene for world World_58
+[2024.12.17-21.53.59:774][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.12.17-21.53.59:780][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/L8/8Y5N7FICKGFSDTWGH4WDYA_Auto8
+[2024.12.17-21.53.59:780][674]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/8Y5N7FICKGFSDTWGH4WDYA_Auto85B4A9C6842B5601FC22B3A99663E7CEF.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/L8/8Y5N7FICKGFSDTWGH4WDYA_Auto8.uasset'
+[2024.12.17-21.53.59:781][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8O/RRRNQ0WL3R9RLLZNFYEC0G_Auto8
+[2024.12.17-21.53.59:781][674]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/RRRNQ0WL3R9RLLZNFYEC0G_Auto8554F2C0E4FE312DDF9BC70A3E1E59B0C.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8O/RRRNQ0WL3R9RLLZNFYEC0G_Auto8.uasset'
+[2024.12.17-21.53.59:783][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HO/6NW1EJTUJDQOMVU1NAQZC7_Auto8
+[2024.12.17-21.53.59:783][674]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/6NW1EJTUJDQOMVU1NAQZC7_Auto89E9736484B657967463962825A07CA8D.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HO/6NW1EJTUJDQOMVU1NAQZC7_Auto8.uasset'
+[2024.12.17-21.53.59:784][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.049
+[2024.12.17-21.53.59:784][674]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2024.12.17-21.53.59:784][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Implemention/BP_FallingBlocks] ([2] browsable assets)...
+[2024.12.17-21.53.59:784][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Implemention/BP_FallingBlocks]
+[2024.12.17-21.53.59:790][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Implemention/BP_FallingBlocks_Auto8
+[2024.12.17-21.53.59:790][674]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_FallingBlocks_Auto8F3660D804374A53F87EB0789BE1469D6.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/Blueprints/Implemention/BP_FallingBlocks_Auto8.uasset'
+[2024.12.17-21.53.59:791][674]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenuUI] ([2] browsable assets)...
+[2024.12.17-21.53.59:794][674]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI]
+[2024.12.17-21.53.59:794][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenuUI]
+[2024.12.17-21.53.59:801][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/PauseMenuUI_Auto8
+[2024.12.17-21.53.59:801][674]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/PauseMenuUI_Auto81997BEED43C6923A52FE69A5CD76C61F.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/UI/PauseMenuUI_Auto8.uasset'
+[2024.12.17-21.53.59:801][674]LogFileHelpers: Auto-saving content packages took 0.018
+[2024.12.17-21.54.04:341][954]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] Could not find a variable named "IsPaused" in '/Game/UI/PauseMenuUI.PauseMenuUI'.
+Make sure '/Game/UI/PauseMenuUI.PauseMenuUI' has been compiled for  Set IsPaused
+[2024.12.17-21.54.04:341][954]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.12.17-21.54.04:341][954]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] The property associated with  Is Paused  could not be found in '/Game/UI/PauseMenuUI.PauseMenuUI_C'
+[2024.12.17-21.54.04:385][954]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.17-21.54.04:923][998]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] Could not find a variable named "IsPaused" in '/Game/UI/PauseMenuUI.PauseMenuUI'.
+Make sure '/Game/UI/PauseMenuUI.PauseMenuUI' has been compiled for  Set IsPaused
+[2024.12.17-21.54.04:923][998]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2024.12.17-21.54.04:923][998]LogBlueprint: Error: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\UI\PauseMenuUI.uasset: [Compiler] The property associated with  Is Paused  could not be found in '/Game/UI/PauseMenuUI.PauseMenuUI_C'
+[2024.12.17-21.54.04:951][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.17-21.55.18:570][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.17-21.55.43:875][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-21.55.43:993][570]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenuUI] ([2] browsable assets)...
+[2024.12.17-21.55.43:995][570]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI]
+[2024.12.17-21.55.43:995][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenuUI]
+[2024.12.17-21.55.43:995][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenuUI" FILE="../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/UI/PauseMenuUI.uasset" SILENT=true
+[2024.12.17-21.55.44:000][570]LogSavePackage: Moving output files for package: /Game/UI/PauseMenuUI
+[2024.12.17-21.55.44:000][570]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/PauseMenuUICEFAF4034C5FBA95D3786DB69405747C.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/UI/PauseMenuUI.uasset'
+[2024.12.17-21.55.44:009][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.603 ms (total: 3.54 sec)
+[2024.12.17-21.55.44:122][570]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.17-21.55.44:122][570]LogContentValidation: Enabled validators:
+[2024.12.17-21.55.44:122][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-21.55.44:122][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-21.55.44:122][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-21.55.44:122][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-21.55.44:122][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-21.55.44:122][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-21.55.44:122][570]AssetCheck: /Game/UI/PauseMenuUI Validating asset
+[2024.12.17-21.56.44:177][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.17-21.56.49:318][481]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.56.49:323][481]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.56.49:351][481]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.56.49:351][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.56.49:358][481]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.56.49:358][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.56.49:403][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.17-21.57.42:305][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9199.631836
+[2024.12.17-21.57.43:640][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.17-21.57.43:640][772]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9200.632812, Update Interval: 352.382568
+[2024.12.17-21.58.11:070][128]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI
+[2024.12.17-21.58.11:071][128]LogChaosDD: Creating Chaos Debug Draw Scene for world World_60
+[2024.12.17-21.58.11:081][128]LogChaosDD: Creating Chaos Debug Draw Scene for world World_61
+[2024.12.17-21.58.54:395][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.17-21.58.55:328][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-21.58.55:442][461]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/PauseMenuUI] ([2] browsable assets)...
+[2024.12.17-21.58.55:443][461]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI]
+[2024.12.17-21.58.55:443][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/PauseMenuUI]
+[2024.12.17-21.58.55:444][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenuUI" FILE="../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/UI/PauseMenuUI.uasset" SILENT=true
+[2024.12.17-21.58.55:449][461]LogSavePackage: Moving output files for package: /Game/UI/PauseMenuUI
+[2024.12.17-21.58.55:449][461]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/PauseMenuUI943C1E7E4647D809B0C2DDBA9DCE6398.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/UI/PauseMenuUI.uasset'
+[2024.12.17-21.58.55:458][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.296 ms (total: 3.67 sec)
+[2024.12.17-21.58.55:587][461]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.17-21.58.55:587][461]LogContentValidation: Enabled validators:
+[2024.12.17-21.58.55:587][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-21.58.55:587][461]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-21.58.55:587][461]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-21.58.55:587][461]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-21.58.55:587][461]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-21.58.55:587][461]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-21.58.55:588][461]AssetCheck: /Game/UI/PauseMenuUI Validating asset
+[2024.12.17-21.58.59:349][802]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.58.59:354][802]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.58.59:403][802]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.58.59:403][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.58.59:410][802]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.58.59:410][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.58.59:453][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.17-21.59.04:498][343]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenuUI.PauseMenuUI
+[2024.12.17-21.59.04:498][343]LogChaosDD: Creating Chaos Debug Draw Scene for world World_63
+[2024.12.17-21.59.04:505][343]LogChaosDD: Creating Chaos Debug Draw Scene for world World_64
+[2024.12.17-21.59.34:006][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.17-21.59.35:583][481]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.59.35:588][481]LogSlate: Window 'PauseMenuUI' being destroyed
+[2024.12.17-21.59.35:624][481]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.59.35:624][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.59.35:631][481]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.59.35:631][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.59.35:680][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.12.17-21.59.37:675][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.17-21.59.37:682][695]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.17-21.59.37:682][695]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.17-21.59.37:686][695]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.991 ms (total: 210.515 ms)
+[2024.12.17-21.59.37:686][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.17-21.59.37:713][695]LogPlayLevel: Display: Creating online subsystem for client :Context_108
+[2024.12.17-21.59.37:715][695]LogOnline: OSS: Created online subsystem instance for: :Context_108
+[2024.12.17-21.59.37:732][696]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-21.59.37:741][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009647s)
+[2024.12.17-21.59.37:741][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009688s)
+[2024.12.17-21.59.37:761][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.17-21.59.37:765][696]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.17-21.59.37:767][696]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.17-21.59.37:767][696]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.17-21.59.37:767][696]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.17-21.59.37:767][696]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.17-21.59.37:771][696]LogWorldPartition: Display: WorldPartition initialize took 4.061 ms (total: 924.282 ms)
+[2024.12.17-21.59.37:771][696]LogPlayLevel: PIE: World Init took: (0.006162s)
+[2024.12.17-21.59.37:771][696]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.12.17-21.59.37:771][696]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.17-21.59.37:771][696]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.17-21.59.37:771][696]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.17-21.59.37:771][696]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.17-21.59.37:771][696]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.17-21.59.37:773][696]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.17-21.59.37:773][696]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.17-21.59.37:773][696]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.17-21.59.37:773][696]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.17-21.59.37:773][696]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.17-21.59.37:773][696]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.17-21.59.37:775][696]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.17-21.59.37:798][696]LogAudioMixer: Display: Using Audio Hardware Device Speaker (2- Jabra Evolve2 40 SE)
+[2024.12.17-21.59.37:798][696]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.17-21.59.37:798][696]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.17-21.59.37:798][696]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.17-21.59.37:799][696]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.12.17-21.59.37:799][696]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.12.17-21.59.37:801][696]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.12.17-21.59.37:801][696]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.12.17-21.59.37:801][696]LogInit: FAudioDevice initialized with ID 55.
+[2024.12.17-21.59.37:801][696]LogAudio: Display: Audio Device (ID: 55) registered with world 'ThirdPersonMap'.
+[2024.12.17-21.59.37:801][696]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.12.17-21.59.37:805][696]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.17-21.59.37:809][696]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.17-21.59.37
+[2024.12.17-21.59.37:809][696]LogWorld: Bringing up level for play took: 0.003776
+[2024.12.17-21.59.37:813][696]PIE: Server logged in
+[2024.12.17-21.59.37:814][696]PIE: Play in editor total start time 0.133 seconds.
+[2024.12.17-21.59.40:724][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.17-21.59.40:724][ 24]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-21.59.40:724][ 24]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-21.59.40:725][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.59.40:726][ 24]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.17-21.59.40:729][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.17-21.59.40:735][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-21.59.40:757][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.17-21.59.40:757][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.12.17-21.59.40:757][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.12.17-21.59.40:759][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.12.17-21.59.40:766][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.12.17-21.59.40:817][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2024.12.17-22.02.03:324][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.12.17-22.02.03:325][155]LogChaosDD: Creating Chaos Debug Draw Scene for world World_65
+[2024.12.17-22.04.18:663][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9596.006836
+[2024.12.17-22.04.19:363][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.17-22.04.19:363][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9596.697266, Update Interval: 326.018250
+[2024.12.17-22.08.31:445][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.17-22.08.31:448][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.039
+[2024.12.17-22.08.31:448][184]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.17-22.08.31:487][184]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.17-22.08.31:487][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.17-22.08.31:497][184]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9
+[2024.12.17-22.08.31:497][184]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_ThirdPersonCharacter_Auto9643B4E5B4A7702CF5A8B9B8886C47126.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto9.uasset'
+[2024.12.17-22.08.31:498][184]LogFileHelpers: Auto-saving content packages took 0.050
+[2024.12.17-22.09.09:319][416]LogSlate: Took 0.005325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.17-22.10.32:512][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9969.823242
+[2024.12.17-22.10.32:712][566]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.17-22.10.32:712][566]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9970.004883, Update Interval: 341.362946
+[2024.12.17-22.11.25:427][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.17-22.11.25:961][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-22.11.26:069][ 25]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.17-22.11.26:101][ 25]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.17-22.11.26:101][ 25]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.17-22.11.26:113][ 25]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.17-22.11.26:113][ 25]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_ThirdPersonCharacterC476417548E790AA254E76ABE6646FCD.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.17-22.11.26:125][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.498 ms (total: 3.83 sec)
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: Enabled validators:
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-22.11.26:231][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-22.11.26:231][ 25]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.17-22.11.50:233][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.17-22.11.50:859][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-22.11.50:975][279]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.12.17-22.11.51:007][279]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.12.17-22.11.51:007][279]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.12.17-22.11.51:018][279]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.12.17-22.11.51:018][279]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_ThirdPersonCharacter28E5D9EC4FE9D4BFEFAA4389BB112EF6.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.12.17-22.11.51:029][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.180 ms (total: 4.00 sec)
+[2024.12.17-22.11.51:141][279]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.17-22.11.51:141][279]LogContentValidation: Enabled validators:
+[2024.12.17-22.11.51:141][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-22.11.51:141][279]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-22.11.51:141][279]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-22.11.51:141][279]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-22.11.51:141][279]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-22.11.51:141][279]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-22.11.51:141][279]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2024.12.17-22.11.53:643][492]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.12.17-22.11.53:648][492]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.12.17-22.11.53:652][492]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.11.53:652][492]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.11.53:726][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.17-22.11.56:306][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.12.17-22.11.56:311][782]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.12.17-22.11.56:312][782]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.12.17-22.11.56:315][782]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3.289 ms (total: 213.805 ms)
+[2024.12.17-22.11.56:315][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.12.17-22.11.56:316][782]LogPlayLevel: Display: Creating online subsystem for client :Context_110
+[2024.12.17-22.11.56:320][782]LogOnline: OSS: Created online subsystem instance for: :Context_110
+[2024.12.17-22.11.56:335][783]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.11.56:344][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009451s)
+[2024.12.17-22.11.56:344][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009501s)
+[2024.12.17-22.11.56:364][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.12.17-22.11.56:367][783]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.17-22.11.56:369][783]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.17-22.11.56:369][783]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.17-22.11.56:369][783]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.17-22.11.56:369][783]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.17-22.11.56:372][783]LogWorldPartition: Display: WorldPartition initialize took 2.803 ms (total: 927.085 ms)
+[2024.12.17-22.11.56:372][783]LogPlayLevel: PIE: World Init took: (0.004468s)
+[2024.12.17-22.11.56:373][783]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.12.17-22.11.56:373][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.12.17-22.11.56:373][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.12.17-22.11.56:373][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.12.17-22.11.56:373][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.12.17-22.11.56:373][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.12.17-22.11.56:375][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.12.17-22.11.56:400][783]LogAudioMixer: Display: Using Audio Hardware Device Speaker (2- Jabra Evolve2 40 SE)
+[2024.12.17-22.11.56:400][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.12.17-22.11.56:400][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.12.17-22.11.56:400][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.12.17-22.11.56:400][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2024.12.17-22.11.56:400][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2024.12.17-22.11.56:403][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2024.12.17-22.11.56:403][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2024.12.17-22.11.56:403][783]LogInit: FAudioDevice initialized with ID 56.
+[2024.12.17-22.11.56:403][783]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonMap'.
+[2024.12.17-22.11.56:403][783]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2024.12.17-22.11.56:406][783]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.17-22.11.56:409][783]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.17-22.11.56
+[2024.12.17-22.11.56:409][783]LogWorld: Bringing up level for play took: 0.003628
+[2024.12.17-22.11.56:414][783]PIE: Server logged in
+[2024.12.17-22.11.56:415][783]PIE: Play in editor total start time 0.104 seconds.
+[2024.12.17-22.12.00:096][210]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.17-22.12.00:096][210]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.12.17-22.12.00:096][210]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.12.17-22.12.03:405][607]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.17-22.12.03:405][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.17-22.12.05:198][819]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.17-22.12.05:198][819]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.17-22.12.07:340][ 76]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.17-22.12.07:340][ 76]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.17-22.12.08:090][164]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.17-22.12.08:090][164]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.17-22.12.08:861][256]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.17-22.12.08:861][256]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.17-22.12.09:427][323]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.17-22.12.09:427][323]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.17-22.12.10:327][431]LogLevel: Warning: WARNING: The map '/Game/UI/Maps/MainMenuMap' does not exist.
+[2024.12.17-22.12.10:328][431]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/UI/Maps/MainMenuMap"
+[2024.12.17-22.12.10:328][431]LogNet: Browse: /Game/UI/Maps/MainMenuMap
+[2024.12.17-22.12.10:328][431]LogLoad: LoadMap: /Game/UI/Maps/MainMenuMap
+[2024.12.17-22.12.10:328][431]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.10:328][431]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.17-22.12.10:328][431]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.17-22.12.10:332][431]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.12.10:333][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.12.10:333][431]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.17-22.12.10:382][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.17-22.12.10:385][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.17-22.12.10:387][431]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.17-22.12.10:388][431]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/UI/Maps/MainMenuMap (0xEB4A0DE448301741) - The package to load does not exist on disk or in the loader
+[2024.12.17-22.12.10:388][431]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player"
+[2024.12.17-22.12.10:388][431]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player
+[2024.12.17-22.12.10:388][431]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player
+[2024.12.17-22.12.10:409][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.17-22.12.10:410][431]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.10:417][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006408s)
+[2024.12.17-22.12.10:417][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006448s)
+[2024.12.17-22.12.10:417][431]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonMap'.
+[2024.12.17-22.12.10:417][431]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.17-22.12.10:418][431]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.17-22.12.10:418][431]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.17-22.12.10:418][431]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.17-22.12.10:418][431]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.17-22.12.10:420][431]LogWorldPartition: Display: WorldPartition initialize took 2.352 ms (total: 929.437 ms)
+[2024.12.17-22.12.10:420][431]LogPlayLevel: PIE: World Init took: (0.003579s)
+[2024.12.17-22.12.10:420][431]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.17-22.12.10:423][431]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.17-22.12.10
+[2024.12.17-22.12.10:424][431]LogWorld: Bringing up level for play took: 0.003284
+[2024.12.17-22.12.10:427][431]LogLoad: Took 0.040019 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2024.12.17-22.12.10:427][431]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.10:427][431]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Failed to load package '/Game/UI/Maps/MainMenuMap'"
+[2024.12.17-22.12.10:427][431]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Failed to load package '/Game/UI/Maps/MainMenuMap'
+[2024.12.17-22.12.10:427][431]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/UI/Maps/MainMenuMap''
+[2024.12.17-22.12.10:436][432]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap?closed"
+[2024.12.17-22.12.10:436][432]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap?closed
+[2024.12.17-22.12.10:436][432]LogNet: Connection failed; returning to Entry
+[2024.12.17-22.12.10:436][432]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap?closed
+[2024.12.17-22.12.10:436][432]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.10:440][432]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.12.10:441][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.12.10:441][432]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.17-22.12.10:468][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.17-22.12.10:473][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.17-22.12.10:475][432]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.10:482][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006905s)
+[2024.12.17-22.12.10:482][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006945s)
+[2024.12.17-22.12.10:482][432]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonMap'.
+[2024.12.17-22.12.10:482][432]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.17-22.12.10:483][432]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.17-22.12.10:483][432]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.17-22.12.10:483][432]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.17-22.12.10:483][432]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.17-22.12.10:485][432]LogWorldPartition: Display: WorldPartition initialize took 2.374 ms (total: 931.811 ms)
+[2024.12.17-22.12.10:485][432]LogPlayLevel: PIE: World Init took: (0.003719s)
+[2024.12.17-22.12.10:485][432]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.17-22.12.10:488][432]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.17-22.12.10
+[2024.12.17-22.12.10:488][432]LogWorld: Bringing up level for play took: 0.003036
+[2024.12.17-22.12.10:493][432]LogLoad: Took 0.057317 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2024.12.17-22.12.10:493][432]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.10:513][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.17-22.12.11:962][599]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.12.17-22.12.11:963][599]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.12.17-22.12.12:703][688]LogLevel: Warning: WARNING: The map '/Game/UI/Maps/MainMenuMap' does not exist.
+[2024.12.17-22.12.12:704][688]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/UI/Maps/MainMenuMap"
+[2024.12.17-22.12.12:704][688]LogNet: Browse: /Game/UI/Maps/MainMenuMap
+[2024.12.17-22.12.12:704][688]LogLoad: LoadMap: /Game/UI/Maps/MainMenuMap
+[2024.12.17-22.12.12:704][688]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.12:704][688]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.12.17-22.12.12:704][688]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.12.17-22.12.12:708][688]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.12.12:710][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.12.12:710][688]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.17-22.12.12:770][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.17-22.12.12:773][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.17-22.12.12:776][688]LogStreaming: Display: FlushAsyncLoading(722): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.17-22.12.12:776][688]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player"
+[2024.12.17-22.12.12:776][688]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player
+[2024.12.17-22.12.12:776][688]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap?Name=Player
+[2024.12.17-22.12.12:797][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.12.17-22.12.12:799][688]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.12:807][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007047s)
+[2024.12.17-22.12.12:807][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007093s)
+[2024.12.17-22.12.12:807][688]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonMap'.
+[2024.12.17-22.12.12:807][688]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.17-22.12.12:808][688]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.17-22.12.12:808][688]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.17-22.12.12:808][688]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.17-22.12.12:808][688]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.17-22.12.12:810][688]LogWorldPartition: Display: WorldPartition initialize took 2.322 ms (total: 934.134 ms)
+[2024.12.17-22.12.12:810][688]LogPlayLevel: PIE: World Init took: (0.003681s)
+[2024.12.17-22.12.12:810][688]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.17-22.12.12:813][688]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.17-22.12.12
+[2024.12.17-22.12.12:814][688]LogWorld: Bringing up level for play took: 0.003519
+[2024.12.17-22.12.12:818][688]LogLoad: Took 0.041001 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2024.12.17-22.12.12:818][688]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.12:818][688]LogGlobalStatus: Warning: UEngine::BroadcastTravelFailure Travel failed, type: ETravelFailure::ClientTravelFailure, reason: "Failed to load package '/Game/UI/Maps/MainMenuMap'"
+[2024.12.17-22.12.12:818][688]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Failed to load package '/Game/UI/Maps/MainMenuMap'
+[2024.12.17-22.12.12:818][688]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Failed to load package '/Game/UI/Maps/MainMenuMap''
+[2024.12.17-22.12.12:826][689]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/ThirdPerson/Maps/ThirdPersonMap?closed"
+[2024.12.17-22.12.12:826][689]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap?closed
+[2024.12.17-22.12.12:826][689]LogNet: Connection failed; returning to Entry
+[2024.12.17-22.12.12:826][689]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap?closed
+[2024.12.17-22.12.12:826][689]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.12:830][689]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.12.12:831][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.12.12:831][689]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.17-22.12.12:858][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.17-22.12.12:862][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.17-22.12.12:864][689]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.12:872][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006826s)
+[2024.12.17-22.12.12:872][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006866s)
+[2024.12.17-22.12.12:872][689]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonMap'.
+[2024.12.17-22.12.12:872][689]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2024.12.17-22.12.12:873][689]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.12.17-22.12.12:873][689]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.17-22.12.12:873][689]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.17-22.12.12:873][689]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.12.17-22.12.12:875][689]LogWorldPartition: Display: WorldPartition initialize took 2.237 ms (total: 936.371 ms)
+[2024.12.17-22.12.12:875][689]LogPlayLevel: PIE: World Init took: (0.003543s)
+[2024.12.17-22.12.12:875][689]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.12.17-22.12.12:878][689]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.12.17-22.12.12
+[2024.12.17-22.12.12:878][689]LogWorld: Bringing up level for play took: 0.003057
+[2024.12.17-22.12.12:882][689]LogLoad: Took 0.056131 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2024.12.17-22.12.12:882][689]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.12:901][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.17-22.12.15:521][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.17-22.12.15:521][985]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.12.17-22.12.15:521][985]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.12.15:522][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.12.15:523][985]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2024.12.17-22.12.15:526][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.12.17-22.12.15:533][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.12.15:557][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.12.17-22.12.15:558][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2024.12.17-22.12.15:558][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.12.17-22.12.15:559][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2024.12.17-22.12.15:566][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.12.17-22.12.15:619][986]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2024.12.17-22.12.56:017][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-22.12.56:153][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.12.17-22.12.56:176][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.17-22.12.56:196][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.17-22.12.56:199][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/L8/8Y5N7FICKGFSDTWGH4WDYA
+[2024.12.17-22.12.56:201][403]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/8Y5N7FICKGFSDTWGH4WDYA5EC0FE2D4364BAD7004C25873E0957C7.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/L8/8Y5N7FICKGFSDTWGH4WDYA.uasset'
+[2024.12.17-22.12.56:203][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8O/RRRNQ0WL3R9RLLZNFYEC0G
+[2024.12.17-22.12.56:203][403]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/RRRNQ0WL3R9RLLZNFYEC0G4C08FCAE43257FB88E33CB94CAA6191C.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8O/RRRNQ0WL3R9RLLZNFYEC0G.uasset'
+[2024.12.17-22.12.56:205][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/G7/6QOY3RV86QQRU15WZ7OOXY
+[2024.12.17-22.12.56:205][403]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/6QOY3RV86QQRU15WZ7OOXYDEB9AE294C9E5B71229A5AB6E13BF0FD.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/G7/6QOY3RV86QQRU15WZ7OOXY.uasset'
+[2024.12.17-22.12.56:207][403]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HO/6NW1EJTUJDQOMVU1NAQZC7
+[2024.12.17-22.12.56:207][403]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/6NW1EJTUJDQOMVU1NAQZC7E95C99044DBA34DB202BAA890850D584.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/HO/6NW1EJTUJDQOMVU1NAQZC7.uasset'
+[2024.12.17-22.12.56:216][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.574 ms (total: 4.20 sec)
+[2024.12.17-22.12.56:355][403]LogContentValidation: Display: Starting to validate 4 assets
+[2024.12.17-22.12.56:355][403]LogContentValidation: Enabled validators:
+[2024.12.17-22.12.56:355][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-22.12.56:355][403]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-22.12.56:355][403]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-22.12.56:355][403]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-22.12.56:355][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-22.12.56:355][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-22.12.56:355][403]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2024.12.17-22.12.56:827][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-22.12.56:950][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.17-22.12.56:973][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.17-22.12.56:991][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.17-22.12.57:000][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.451 ms (total: 4.38 sec)
+[2024.12.17-22.13.05:153][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-22.13.05:279][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.12.17-22.13.05:302][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.17-22.13.05:322][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.17-22.13.05:331][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.415 ms (total: 4.55 sec)
+[2024.12.17-22.13.06:336][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.12.17-22.13.07:764][458]LogSlate: Window 'Save Content' being destroyed
+[2024.12.17-22.13.07:791][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.17-22.13.07:900][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Implemention/BP_FallingBlocks] ([2] browsable assets)...
+[2024.12.17-22.13.07:900][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Implemention/BP_FallingBlocks]
+[2024.12.17-22.13.07:906][458]LogSavePackage: Moving output files for package: /Game/Blueprints/Implemention/BP_FallingBlocks
+[2024.12.17-22.13.07:906][458]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_FallingBlocksB12976EF41FB646C271E4A921671327B.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Blueprints/Implemention/BP_FallingBlocks.uasset'
+[2024.12.17-22.13.07:907][458]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Implemention/BP_Temple] ([2] browsable assets)...
+[2024.12.17-22.13.07:907][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Implemention/BP_Temple]
+[2024.12.17-22.13.07:910][458]LogSavePackage: Moving output files for package: /Game/Blueprints/Implemention/BP_Temple
+[2024.12.17-22.13.07:910][458]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/BP_Temple6427F033455891B17F7E18A42C8EB9A9.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Blueprints/Implemention/BP_Temple.uasset'
+[2024.12.17-22.13.07:910][458]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/MainMenuIdea] ([1] browsable assets)...
+[2024.12.17-22.13.07:910][458]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/MainMenuIdea]
+[2024.12.17-22.13.07:910][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/MainMenuIdea" FILE="../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Textures/MainMenuIdea.uasset" SILENT=true
+[2024.12.17-22.13.07:922][458]LogSavePackage: Moving output files for package: /Game/Textures/MainMenuIdea
+[2024.12.17-22.13.07:923][458]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/MainMenuIdeaB63F34AB46746CD01BBDBE90D9430974.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Textures/MainMenuIdea.uasset'
+[2024.12.17-22.13.07:933][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.346 ms (total: 4.70 sec)
+[2024.12.17-22.13.07:973][458]LogStall: Shutdown...
+[2024.12.17-22.13.07:973][458]LogStall: Shutdown complete.
+[2024.12.17-22.13.08:001][458]LogSlate: Window 'MazeEscape - Unreal Editor' being destroyed
+[2024.12.17-22.13.08:430][458]LogContentValidation: Display: Starting to validate 3 assets
+[2024.12.17-22.13.08:430][458]LogContentValidation: Enabled validators:
+[2024.12.17-22.13.08:430][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.17-22.13.08:430][458]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.17-22.13.08:430][458]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.17-22.13.08:430][458]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.17-22.13.08:430][458]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.17-22.13.08:430][458]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.17-22.13.08:430][458]AssetCheck: /Game/Blueprints/Implemention/BP_FallingBlocks Validating asset
+[2024.12.17-22.13.08:430][458]AssetCheck: /Game/Blueprints/Implemention/BP_Temple Validating asset
+[2024.12.17-22.13.08:430][458]AssetCheck: /Game/Textures/MainMenuIdea Validating asset
+[2024.12.17-22.13.08:431][458]Cmd: QUIT_EDITOR
+[2024.12.17-22.13.08:431][458]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.17-22.13.08:445][459]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.17-22.13.08:445][459]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.17-22.13.08:445][459]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.17-22.13.08:448][459]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:448][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:448][459]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.12.17-22.13.08:457][459]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.12.17-22.13.08:459][459]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.17-22.13.08:473][459]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:473][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:478][459]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:478][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:482][459]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:482][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:485][459]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:485][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:489][459]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:489][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:492][459]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:492][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:495][459]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:495][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:498][459]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:498][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:502][459]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:502][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:505][459]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:505][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:509][459]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:509][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:511][459]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:511][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:514][459]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:514][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:517][459]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.12.17-22.13.08:517][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.17-22.13.08:521][459]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.12.17-22.13.08:524][459]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.12.17-22.13.08:524][459]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.12.17-22.13.08:524][459]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.12.17-22.13.08:619][459]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.17-22.13.08:619][459]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.17-22.13.08:619][459]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.12.17-22.13.08:619][459]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.12.17-22.13.08:620][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.17-22.13.08:623][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.17-22.13.08:630][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.12.17-22.13.08:631][459]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.17-22.13.08:632][459]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2024.12.17-22.13.08:636][459]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.17-22.13.08:637][459]LogExit: Preparing to exit.
+[2024.12.17-22.13.08:676][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.17-22.13.08:721][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:721][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:723][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.08:724][459]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.17-22.13.09:519][459]LogEditorDataStorage: Deinitializing
+[2024.12.17-22.13.09:718][459]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.17-22.13.09:829][459]LogExit: Editor shut down
+[2024.12.17-22.13.09:836][459]LogExit: Transaction tracking system shut down
+[2024.12.17-22.13.10:346][459]LogExit: Object subsystem successfully closed.
+[2024.12.17-22.13.10:425][459]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.17-22.13.10:573][459]LogMemoryProfiler: Shutdown
+[2024.12.17-22.13.10:574][459]LogNetworkingProfiler: Shutdown
+[2024.12.17-22.13.10:574][459]LoadingProfiler: Shutdown
+[2024.12.17-22.13.10:575][459]LogTimingProfiler: Shutdown
+[2024.12.17-22.13.11:050][459]LogChaosDD: Chaos Debug Draw Shutdown
+[2024.12.17-22.13.11:051][459]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.12.17-22.13.11:051][459]LogNFORDenoise: NFORDenoise function shutting down
+[2024.12.17-22.13.11:053][459]RenderDocPlugin: plugin has been unloaded.
+[2024.12.17-22.13.11:071][459]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.17-22.13.11:071][459]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B667CEF88-4E6E-7F14-1B6B-DCAEFBBE4918%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.1-38445549%2B%2B%2BUE5%2BRelease-5.5&UserID=86142aa045f354cf38189a9206a1ae79%7Ce37984e257304881b08b67ebfbc827e4%7C3ba4b181-a5e8-42d6-957d-5234ba4ad218&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.12.17-22.13.12:130][459]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.12.17-22.13.12:142][459]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2024.12.17-22.13.12:142][459]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2024.12.17-22.13.12:143][459]LogPakFile: Destroying PakPlatformFile
+[2024.12.17-22.13.12:725][459]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.17-22.13.12:800][459]LogExit: Exiting.
+[2024.12.17-22.13.12:821][459]Log file closed, 12/17/24 22:13:12

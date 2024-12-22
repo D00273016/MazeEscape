@@ -1484,3 +1484,222 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2024.12.22-14.42.44:289][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput_Auto1
 [2024.12.22-14.42.44:289][965]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_PressurePlateInput_Auto11E390D75448160966122309C58376B22.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput_Auto1.uasset'
 [2024.12.22-14.42.44:289][965]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.12.22-14.43.02:843][ 21]LogStreaming: Display: FlushAsyncLoading(684): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-14.43.02:850][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade.FTest_SwingingBlade
+[2024.12.22-14.43.02:850][ 21]LogChaosDD: Creating Chaos Debug Draw Scene for world World_6
+[2024.12.22-14.43.43:252][196]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade.FTest_SwingingBlade from FunctionalTest to FTest_BaseOverlapTest_C...
+[2024.12.22-14.43.43:321][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.22-14.44.29:866][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1022.953125
+[2024.12.22-14.44.30:106][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-14.44.30:106][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1023.186096, Update Interval: 347.918335
+[2024.12.22-14.46.16:317][127]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.46.16:571][130]LogEditorTransaction: Undo Add Node
+[2024.12.22-14.46.16:773][132]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.46.16:898][133]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.46.17:124][150]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.46.17:647][201]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.46.17:951][227]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.46.18:201][247]LogEditorTransaction: Undo Move Nodes
+[2024.12.22-14.46.18:404][261]LogEditorTransaction: Undo Delete current selection
+[2024.12.22-14.46.18:575][270]LogEditorTransaction: Undo Move Nodes
+[2024.12.22-14.46.18:745][279]LogEditorTransaction: Undo Create Pin Link
+[2024.12.22-14.46.19:032][302]LogEditorTransaction: Undo Add Node
+[2024.12.22-14.46.19:318][325]LogEditorTransaction: Undo Move Node
+[2024.12.22-14.47.35:722][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.12.22-14.47.36:632][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-14.47.36:698][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade] ([2] browsable assets)...
+[2024.12.22-14.47.36:698][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade]
+[2024.12.22-14.47.36:703][816]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade
+[2024.12.22-14.47.36:703][816]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_SwingingBladeB4D036A94FAD0D29E6CD70916FA3DF9A.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleSwingingBlades/FTest_SwingingBlade.uasset'
+[2024.12.22-14.47.36:711][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.076 ms (total: 390.125 ms)
+[2024.12.22-14.47.36:813][816]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-14.47.36:813][816]LogContentValidation: Enabled validators:
+[2024.12.22-14.47.36:813][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-14.47.36:813][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-14.47.36:813][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-14.47.36:813][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-14.47.36:814][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-14.47.36:814][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-14.47.36:814][816]AssetCheck: /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade Validating asset
+[2024.12.22-14.47.39:045][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.22-14.47.39:528][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-14.47.39:623][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade] ([2] browsable assets)...
+[2024.12.22-14.47.39:623][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade]
+[2024.12.22-14.47.39:627][101]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade
+[2024.12.22-14.47.39:627][101]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_SwingingBladeD7C061B54A3016DAE38E61B32F6F7CF4.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleSwingingBlades/FTest_SwingingBlade.uasset'
+[2024.12.22-14.47.39:635][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.237 ms (total: 497.362 ms)
+[2024.12.22-14.47.39:755][101]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-14.47.39:755][101]LogContentValidation: Enabled validators:
+[2024.12.22-14.47.39:755][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-14.47.39:755][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-14.47.39:755][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-14.47.39:755][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-14.47.39:755][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-14.47.39:755][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-14.47.39:755][101]AssetCheck: /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade Validating asset
+[2024.12.22-14.47.53:589][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.22-14.47.54:330][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-14.47.54:422][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade] ([2] browsable assets)...
+[2024.12.22-14.47.54:422][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade]
+[2024.12.22-14.47.54:426][407]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade
+[2024.12.22-14.47.54:426][407]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_SwingingBladeC409FC624E2420D7091A7BA3F9DA2567.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleSwingingBlades/FTest_SwingingBlade.uasset'
+[2024.12.22-14.47.54:434][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.598 ms (total: 601.961 ms)
+[2024.12.22-14.47.54:541][407]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-14.47.54:541][407]LogContentValidation: Enabled validators:
+[2024.12.22-14.47.54:541][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-14.47.54:541][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-14.47.54:541][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-14.47.54:541][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-14.47.54:541][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-14.47.54:541][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-14.47.54:541][407]AssetCheck: /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade Validating asset
+[2024.12.22-14.47.56:446][587]LogSlate: Window 'FTest_SwingingBlade' being destroyed
+[2024.12.22-14.47.56:451][587]LogSlate: Window 'FTest_SwingingBlade' being destroyed
+[2024.12.22-14.47.56:453][587]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-14.47.56:453][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-14.47.56:503][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.22-14.48.14:461][630]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-14.48.14:469][630]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleTemple/FTest_CollectedEnd.FTest_CollectedEnd
+[2024.12.22-14.48.14:469][630]LogChaosDD: Creating Chaos Debug Draw Scene for world World_7
+[2024.12.22-14.48.54:170][578]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Tests/PuzzleTemple/FTest_CollectedEnd.FTest_CollectedEnd from FunctionalTest to FTest_BaseOverlapTest_C...
+[2024.12.22-14.48.54:247][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.22-14.50.30:101][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1383.182861
+[2024.12.22-14.50.31:103][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-14.50.31:103][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1383.851929, Update Interval: 344.951935
+[2024.12.22-14.52.37:083][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.12.22-14.52.38:005][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-14.52.38:097][  0]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleTemple/FTest_CollectedEnd] ([2] browsable assets)...
+[2024.12.22-14.52.38:097][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleTemple/FTest_CollectedEnd]
+[2024.12.22-14.52.38:101][  0]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleTemple/FTest_CollectedEnd
+[2024.12.22-14.52.38:102][  0]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_CollectedEndDD88208C4EE1CFF3237D7A88FC448494.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleTemple/FTest_CollectedEnd.uasset'
+[2024.12.22-14.52.38:110][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.251 ms (total: 707.212 ms)
+[2024.12.22-14.52.38:230][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-14.52.38:230][  0]LogContentValidation: Enabled validators:
+[2024.12.22-14.52.38:230][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-14.52.38:230][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-14.52.38:230][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-14.52.38:230][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-14.52.38:230][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-14.52.38:230][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-14.52.38:230][  0]AssetCheck: /Game/Tests/PuzzleTemple/FTest_CollectedEnd Validating asset
+[2024.12.22-14.52.45:859][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.22-14.52.46:768][786]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-14.52.46:859][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleTemple/FTest_CollectedEnd] ([2] browsable assets)...
+[2024.12.22-14.52.46:859][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleTemple/FTest_CollectedEnd]
+[2024.12.22-14.52.46:864][786]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleTemple/FTest_CollectedEnd
+[2024.12.22-14.52.46:864][786]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_CollectedEndA0DCD7084FAEDFBDA4D5B797157296FC.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleTemple/FTest_CollectedEnd.uasset'
+[2024.12.22-14.52.46:873][786]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.099 ms (total: 811.312 ms)
+[2024.12.22-14.52.46:977][786]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-14.52.46:977][786]LogContentValidation: Enabled validators:
+[2024.12.22-14.52.46:977][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-14.52.46:977][786]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-14.52.46:977][786]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-14.52.46:977][786]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-14.52.46:977][786]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-14.52.46:977][786]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-14.52.46:977][786]AssetCheck: /Game/Tests/PuzzleTemple/FTest_CollectedEnd Validating asset
+[2024.12.22-14.52.48:193][907]LogSlate: Window 'FTest_CollectedEnd' being destroyed
+[2024.12.22-14.52.48:203][907]LogSlate: Window 'FTest_CollectedEnd' being destroyed
+[2024.12.22-14.52.48:207][907]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-14.52.48:207][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-14.52.48:265][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.22-14.53.00:954][602]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-14.53.00:961][602]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleTemple/FTest_TempleClimbable.FTest_TempleClimbable
+[2024.12.22-14.53.00:961][602]LogChaosDD: Creating Chaos Debug Draw Scene for world World_8
+[2024.12.22-14.53.25:829][773]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Tests/PuzzleTemple/FTest_TempleClimbable.FTest_TempleClimbable from FunctionalTest to FTest_BaseDistanceCheckTest_C...
+[2024.12.22-14.53.25:833][773]LogBlueprint: Warning: [AssetLog] C:\Users\Paulina\Documents\GitHub\MazeEscape\MazeEscape 5.5\Content\Tests\PuzzleTemple\FTest_TempleClimbable.uasset: [Compiler] Found a member variable with a conflicting name (TargetPoint) - changed to TargetPoint_0.
+[2024.12.22-14.53.25:901][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.22-14.54.53:796][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.12.22-14.54.53:799][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2024.12.22-14.54.53:799][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput] ([2] browsable assets)...
+[2024.12.22-14.54.53:799][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput]
+[2024.12.22-14.54.53:804][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput_Auto2
+[2024.12.22-14.54.53:804][ 48]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_PressurePlateInput_Auto2BA368DB3436CB75BB88BC5AC9736AF78.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput_Auto2.uasset'
+[2024.12.22-14.54.53:805][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleTemple/FTest_TempleClimbable] ([2] browsable assets)...
+[2024.12.22-14.54.53:805][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleTemple/FTest_TempleClimbable]
+[2024.12.22-14.54.53:810][ 48]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tests/PuzzleTemple/FTest_TempleClimbable_Auto2
+[2024.12.22-14.54.53:810][ 48]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_TempleClimbable_Auto20AE0311344992D88E1C22E9BD92C648A.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/Tests/PuzzleTemple/FTest_TempleClimbable_Auto2.uasset'
+[2024.12.22-14.54.53:810][ 48]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.12.22-14.56.32:863][568]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1745.936279
+[2024.12.22-14.56.33:059][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-14.56.33:059][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1746.121948, Update Interval: 357.235016
+[2024.12.22-15.03.17:636][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2150.709229
+[2024.12.22-15.03.17:861][492]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-15.03.17:861][492]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2150.924805, Update Interval: 330.401917
+[2024.12.22-15.09.30:018][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2523.106445
+[2024.12.22-15.09.30:878][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-15.09.30:878][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2523.956299, Update Interval: 338.760956
+[2024.12.22-15.12.17:746][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-15.12.17:838][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleTemple/FTest_TempleClimbable] ([2] browsable assets)...
+[2024.12.22-15.12.17:838][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleTemple/FTest_TempleClimbable]
+[2024.12.22-15.12.17:841][507]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleTemple/FTest_TempleClimbable
+[2024.12.22-15.12.17:842][507]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_TempleClimbable8FF05DD34B2535A284A463BAE5617F36.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleTemple/FTest_TempleClimbable.uasset'
+[2024.12.22-15.12.17:851][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.691 ms (total: 916.003 ms)
+[2024.12.22-15.12.17:970][507]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-15.12.17:970][507]LogContentValidation: Enabled validators:
+[2024.12.22-15.12.17:970][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-15.12.17:970][507]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-15.12.17:970][507]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-15.12.17:970][507]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-15.12.17:970][507]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-15.12.17:970][507]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-15.12.17:971][507]AssetCheck: /Game/Tests/PuzzleTemple/FTest_TempleClimbable Validating asset
+[2024.12.22-15.12.18:554][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.22-15.12.27:350][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.12.22-15.12.31:406][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.22-15.12.32:173][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.12.22-15.12.32:778][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-15.12.32:854][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleTemple/FTest_TempleClimbable] ([2] browsable assets)...
+[2024.12.22-15.12.32:854][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleTemple/FTest_TempleClimbable]
+[2024.12.22-15.12.32:858][ 17]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleTemple/FTest_TempleClimbable
+[2024.12.22-15.12.32:858][ 17]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_TempleClimbableF162E3E34C53205BEE8E1593ABCE404E.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleTemple/FTest_TempleClimbable.uasset'
+[2024.12.22-15.12.32:866][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.812 ms (total: 1.00 sec)
+[2024.12.22-15.12.32:970][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: Enabled validators:
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-15.12.32:971][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-15.12.32:971][ 17]AssetCheck: /Game/Tests/PuzzleTemple/FTest_TempleClimbable Validating asset
+[2024.12.22-15.12.35:558][258]LogSlate: Window 'FTest_TempleClimbable' being destroyed
+[2024.12.22-15.12.35:563][258]LogSlate: Window 'FTest_TempleClimbable' being destroyed
+[2024.12.22-15.12.35:567][258]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-15.12.35:567][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-15.12.35:621][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.22-15.12.42:363][663]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleTemple/FTest_TempleClimbable.FTest_TempleClimbable
+[2024.12.22-15.12.42:363][663]LogChaosDD: Creating Chaos Debug Draw Scene for world World_9
+[2024.12.22-15.12.48:935][970]LogSlate: Window 'FTest_TempleClimbable' being destroyed
+[2024.12.22-15.12.48:939][970]LogSlate: Window 'FTest_TempleClimbable' being destroyed
+[2024.12.22-15.12.48:943][970]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-15.12.48:943][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-15.12.49:015][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.12.22-15.12.52:840][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleTemple/FTest_CollectedEnd.FTest_CollectedEnd
+[2024.12.22-15.12.52:840][294]LogChaosDD: Creating Chaos Debug Draw Scene for world World_10
+[2024.12.22-15.13.13:942][606]LogSlate: Window 'FTest_CollectedEnd' being destroyed
+[2024.12.22-15.13.13:947][606]LogSlate: Window 'FTest_CollectedEnd' being destroyed
+[2024.12.22-15.13.13:950][606]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-15.13.13:950][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-15.13.14:029][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.22-15.13.28:872][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleSwingingBlades/FTest_SwingingBlade.FTest_SwingingBlade
+[2024.12.22-15.13.28:872][392]LogChaosDD: Creating Chaos Debug Draw Scene for world World_11
+[2024.12.22-15.13.37:755][156]LogSlate: Window 'FTest_SwingingBlade' being destroyed
+[2024.12.22-15.13.37:760][156]LogSlate: Window 'FTest_SwingingBlade' being destroyed
+[2024.12.22-15.13.37:762][156]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-15.13.37:762][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-15.13.37:834][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.22-15.13.56:251][407]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzlePressurePlates/FTest_PressurePlateInput.FTest_PressurePlateInput
+[2024.12.22-15.13.56:252][407]LogChaosDD: Creating Chaos Debug Draw Scene for world World_12
+[2024.12.22-15.14.12:510][965]LogSlate: Window 'FTest_PressurePlateInput' being destroyed
+[2024.12.22-15.14.12:515][965]LogSlate: Window 'FTest_PressurePlateInput' being destroyed
+[2024.12.22-15.14.12:518][965]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-15.14.12:518][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-15.14.12:590][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.12.22-15.14.23:890][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzlePressurePlates/FTest_PressurePlates.FTest_PressurePlates
+[2024.12.22-15.14.23:891][418]LogChaosDD: Creating Chaos Debug Draw Scene for world World_13
+[2024.12.22-15.14.34:693][772]LogSlate: Window 'FTest_PressurePlates' being destroyed
+[2024.12.22-15.14.34:697][772]LogSlate: Window 'FTest_PressurePlates' being destroyed
+[2024.12.22-15.14.34:701][772]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-15.14.34:701][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-15.14.34:774][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms

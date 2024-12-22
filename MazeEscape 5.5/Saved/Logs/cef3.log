@@ -1,9 +1,1 @@
-[1219/202247.163:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(85,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[1219/202247.276:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[1219/202434.256:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1222/160418.126:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

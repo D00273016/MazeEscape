@@ -1404,3 +1404,58 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2024.12.22-10.34.35:049][156]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2024.12.22-10.34.35:049][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.12.22-10.34.35:096][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.12.22-10.35.04:417][580]LogChaosDD: Creating Chaos Debug Draw Scene for world World_1
+[2024.12.22-10.35.10:978][296]LogStreaming: Display: FlushAsyncLoading(679): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-10.35.11:027][296]LogChaosDD: Creating Chaos Debug Draw Scene for world FTest_MazeMap
+[2024.12.22-10.35.11:027][296]LogWorldPartition: ULevel::OnLevelLoaded(FTest_MazeMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.12.22-10.35.11:027][296]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.12.22-10.35.11:027][296]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Tests/Game/FTest_MazeMap.FTest_MazeMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.12.22-10.35.11:029][296]LogWorldPartition: Display: WorldPartition initialize took 1.564 ms (total: 187.238 ms)
+[2024.12.22-10.35.11:038][296]LogObjectTools: Deleting 1 worlds: /Game/Tests/Game/FTest_MazeMap.FTest_MazeMap
+[2024.12.22-10.35.11:038][296]LogObjectTools: Currently 2 active worlds: /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, /Engine/Transient.World_1
+[2024.12.22-10.35.11:059][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.22-10.35.22:161][296]LogSlate: Window 'Delete Assets' being destroyed
+[2024.12.22-10.35.22:168][296]LogWorld: UWorld::CleanupWorld for FTest_MazeMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-10.35.22:168][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-10.35.22:168][296]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Tests/Game/FTest_MazeMap.FTest_MazeMap
+[2024.12.22-10.35.22:208][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.12.22-10.35.22:225][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.22-10.35.22:244][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.12.22-10.35.33:023][528]LogStreaming: Display: FlushAsyncLoading(744): 1 QueuedPackages, 0 AsyncPackages
+[2024.12.22-10.35.33:029][528]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks.FTest_FallingBlocks
+[2024.12.22-10.35.33:030][528]LogChaosDD: Creating Chaos Debug Draw Scene for world World_2
+[2024.12.22-10.36.53:736][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 689.093079
+[2024.12.22-10.36.53:928][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.22-10.36.53:928][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 689.276367, Update Interval: 348.691071
+[2024.12.22-10.36.55:025][737]LogEditorTransaction: Undo Delete current selection
+[2024.12.22-10.36.55:317][741]LogEditorTransaction: Undo Move Node
+[2024.12.22-10.38.17:886][  4]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks.FTest_FallingBlocks from FunctionalTest to FTest_BaseOverlapTest_C...
+[2024.12.22-10.38.17:951][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.22-10.38.55:227][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.22-10.38.55:231][283]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.024
+[2024.12.22-10.38.55:231][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks] ([2] browsable assets)...
+[2024.12.22-10.38.55:231][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks]
+[2024.12.22-10.38.55:234][283]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks_Auto1
+[2024.12.22-10.38.55:234][283]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_FallingBlocks_Auto1A467A60D405BCAABA451619EA9C06696.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/Autosaves/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks_Auto1.uasset'
+[2024.12.22-10.38.55:234][283]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.12.22-10.39.58:288][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.12.22-10.39.59:267][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.22-10.39.59:335][724]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks] ([2] browsable assets)...
+[2024.12.22-10.39.59:335][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks]
+[2024.12.22-10.39.59:338][724]LogSavePackage: Moving output files for package: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks
+[2024.12.22-10.39.59:339][724]LogSavePackage: Moving '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Saved/FTest_FallingBlocks97B760BD4CC603353A16B295747DC877.tmp' to '../../../../../../Users/Paulina/Documents/GitHub/MazeEscape/MazeEscape 5.5/Content/Tests/PuzzleFallingBlocks/FTest_FallingBlocks.uasset'
+[2024.12.22-10.39.59:346][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.026 ms (total: 170.827 ms)
+[2024.12.22-10.39.59:450][724]LogContentValidation: Display: Starting to validate 1 assets
+[2024.12.22-10.39.59:451][724]LogContentValidation: Enabled validators:
+[2024.12.22-10.39.59:451][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.12.22-10.39.59:451][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.12.22-10.39.59:451][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.12.22-10.39.59:451][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.12.22-10.39.59:451][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.12.22-10.39.59:451][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.12.22-10.39.59:451][724]AssetCheck: /Game/Tests/PuzzleFallingBlocks/FTest_FallingBlocks Validating asset
+[2024.12.22-10.40.06:413][468]LogSlate: Window 'FTest_FallingBlocks' being destroyed
+[2024.12.22-10.40.06:418][468]LogSlate: Window 'FTest_FallingBlocks' being destroyed
+[2024.12.22-10.40.06:421][468]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.22-10.40.06:421][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.22-10.40.06:481][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms

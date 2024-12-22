@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Paulina\\Documents\\GitHub\\MazeEscape\\MazeEscape 5.5\\Intermediate\\Source\\MazeEscape.Build.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\MazeEscape\\MazeEscape 5.5\\Intermediate\\Source\\MazeEscape.Target.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\MazeEscape\\MazeEscape 5.5\\Intermediate\\Source\\MazeEscapeClient.Target.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\MazeEscape\\MazeEscape 5.5\\Intermediate\\Source\\MazeEscapeEditor.Target.cs",
+		"C:\\Users\\Paulina\\Documents\\GitHub\\MazeEscape\\MazeEscape 5.5\\Intermediate\\Source\\MazeEscapeServer.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
